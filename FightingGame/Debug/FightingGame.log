@@ -1,0 +1,5 @@
+﻿  FightingGame.cpp
+C:\Users\ibora\source\repos\FightingGame\FightingGame.cpp(11,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ibora\source\repos\FightingGame\FightingGame.cpp(21,17): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\ibora\source\repos\FightingGame\FightingGame.cpp(21,13): warning C4309: 'initializing': truncation of constant value
+  FightingGame.vcxproj -> C:\Users\ibora\source\repos\FightingGame\Debug\FightingGame.exe
